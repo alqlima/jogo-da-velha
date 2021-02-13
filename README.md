@@ -1,5 +1,25 @@
 # jogo-da-velha
- The tic-tac-toe or cock game or three in a row is a popular game and / or pastime. It is an extremely simple game of rules, which does not bring great difficulties for its players and is easily learned
+
+<p align="center">
+ <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/jogo-da-velha" />
+ <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alqlima/jogo-da-velha" />
+ <img alt="" src="https://img.shields.io/github/repo-size/alqlima/jogo-da-velha" />
+ <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alqlima/jogo-da-velha" />
+ <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/jogo-da-velha" />
+ <img alt="Github License" src="https://img.shields.io/github/license/alqlima/jogo-da-velha" />
+ </p>
+ 
+ ## 💻 Sobre o projeto
+
+> The tic-tac-toe or cock game or three in a row is a popular game and / or pastime. It is an extremely simple game of rules, which does not bring great difficulties for its players and is easily learned
+ 
+ 
+ <h4 align="center">
+   🚧 Jogo da Velha 🚀 Under construction... 🚧
+ </h4>
+ 
+ ## Author
+[André Queiroz](https://www.linkedin.com/in/andré-queiroz-b8805069/)
  
   
  ## 🤑Donation
