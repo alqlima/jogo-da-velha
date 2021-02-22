@@ -15,7 +15,7 @@
  
  
  <h4 align="center">
-   🚧 Jogo da Velha 🚀 Under construction... 🚧
+   🚧 Jogo da Velha 🚀 Concluded! 🚧
  </h4>
  
  ## Author
